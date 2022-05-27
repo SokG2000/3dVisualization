@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 88c62572a811bcb438af71943e9a3988, type: 3}
+  m_Name: Asset Root
+  m_EditorClassIdentifier: 
+  Levels:
+  - {fileID: 11400000, guid: c1dd3779b9fd2e441ad47edf874b54aa, type: 2}
+  - {fileID: 11400000, guid: d3b751cae9b83374097362066b9a197b, type: 2}
+  PlayerAsset: {fileID: 11400000, guid: 006e08b07bd19ee45b8a5d10c0e5d196, type: 2}
+  FireballAsset: {fileID: 11400000, guid: 3473e23ee8f34564c9b28358d8eed0f4, type: 2}
+  LightningAsset: {fileID: 11400000, guid: 7ad7fafcf82010848b9dfcc7109a5e74, type: 2}
